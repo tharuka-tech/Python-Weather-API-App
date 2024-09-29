@@ -1,2 +1,13 @@
-# Python-WeatherApp
-<p> Python-WeatherApp is a Python-based weather API application designed to provide real-time weather data for any city in the world. This app fetches and displays essential weather information, including temperature, humidity, wind speed, and overall weather conditions. It's built using modern web technologies and is designed to be user-friendly and easy to integrate into various projects.</p>
+# Python Weather API App
+
+## Overview
+This Python Weather API App allows users to get real-time weather data for any city in the world using the OpenWeatherMap API. It retrieves information such as temperature, humidity, wind speed, and current weather conditions in a simple command-line interface.
+
+## Features
+- Real-time weather data retrieval.
+- Displays temperature, humidity, wind speed, and conditions.
+- User-friendly command-line interface.
+- Error handling for invalid city names and API response issues.
+
+## How to Use
+1. Clone the repository:
