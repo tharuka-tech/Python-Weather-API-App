@@ -6,7 +6,7 @@ This Python Weather API App allows users to get real-time weather data for any c
 ## Features
 - Real-time weather data retrieval.
 - Displays temperature, humidity, wind speed, and conditions.
-- User-friendly command-line interface.
+- User-friendly interface.
 - Error handling for invalid city names and API response issues.
 
 ## How to Use
